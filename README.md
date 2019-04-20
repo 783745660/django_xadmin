@@ -1,1 +1,2 @@
 # django_xadmin
+可用xadmin代替django后台管理admin
